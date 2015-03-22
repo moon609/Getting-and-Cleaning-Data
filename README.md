@@ -44,7 +44,8 @@ dplyr
 * Merges the x_test and x_train data to one data frame
   
 * Rbind y_test and y_train
-  * Rbind subject_test and subject_train
+
+* Rbind subject_test and subject_train
   
 <br>3. Labels the data set with descriptive variable names</br>
   
